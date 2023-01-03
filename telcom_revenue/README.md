@@ -49,4 +49,4 @@
 
 # Libraries:
 
-pandas, matplotlib, math, scipy, datetime, 
+pandas, matplotlib, math, scipy, datetime.
