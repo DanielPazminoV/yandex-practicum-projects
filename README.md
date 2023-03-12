@@ -10,3 +10,4 @@ Project name | Description | Libraries used
 [Videogames trends](https://github.com/DanielPazminoV/yandex-practicum-projects/tree/main/video_games_trends) | Test hypothesis about users and critics of videogames | pandas, numpy, scipy, matplotlib
 [Cabs dynamics](https://github.com/DanielPazminoV/yandex-practicum-projects/tree/main/cabs_dynamics) | Test an hypothesis regarding taxi trips duration and weather | pandas, numpy, scipy, matplotlib
 [cell_phone_plans_prediction_model](https://github.com/DanielPazminoV/yandex-practicum-projects/tree/main/cell_phone_plans_prediction_model) | Build a clasification model to help clients select their cell phone plan, with a performance of at least 0.75. | pandas, sklearn
+[client_retention_model](https://github.com/DanielPazminoV/yandex-practicum-projects/tree/main/client_retention_model) | Build a prediction model for client retention with an F1 score of at least 0.59. | pandas, matplotlib, sklearn
