@@ -10,4 +10,4 @@
 
 # Libraries:
 
-* numpy, re, pandas, seaborn, matplotlib, nltk, spacy, sklearn, statsmodels, lightgbm
+* numpy, re, pandas, seaborn, matplotlib, nltk, spacy, sklearn, lightgbm
