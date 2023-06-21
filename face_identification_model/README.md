@@ -1,12 +1,11 @@
 # Data:
 
-* review: the text of the review
-* pos: the target, '0' for negative and '1' for positive
-* ds_part:'training'/'test' for the training/testing part of the data set, respectively 
+*  "final_files" folder with 7600 photos.
+*  "labels.csv" file with legends, with two columns: "file_name" and "real_age"
 
 # Goals:
 
-* Train models to detect negative movie reviews automatically.
+* Build and evaluate a neural network regression model to verify age based of photographs.
 
 # Libraries:
 
